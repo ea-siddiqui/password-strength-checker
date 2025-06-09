@@ -29,5 +29,5 @@ This is a simple Python application that evaluates the strength of a given passw
  - Implement more advanced password strength algorithms
  - Create a web app version
 
-Author: Eisha Awais
-GitHub: ea-siddiqui
+## 
+### Author: Eisha Awais
